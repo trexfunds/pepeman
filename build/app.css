@@ -110,7 +110,7 @@ body {
     height: 66%; } }
 
 .loading-cover {
-  background-color: #0A5C36;
+  background: #ffdf00;
   height: 100vh;
   position: absolute;
   top: 0;
@@ -143,10 +143,10 @@ body {
   margin-top: 25vh; }
 
 .game-start {
-  background-color: #09a144;
+  background-color: #fcc73f;
   border: 5px solid #231f20;
   border-radius: 10px;
-  box-shadow: 5px 5px #6dbf5a;
+  box-shadow: 5px 5px #ee2a29;
   color: #231f20;
   cursor: pointer;
   font-size: 48px;
@@ -160,7 +160,7 @@ body {
 
 .loading-container {
   background-color: #000;
-  border: 5px solid #6dbf5a;
+  border: 5px solid #2121ff;
   border-radius: 10px;
   height: 48px;
   left: 50%;
